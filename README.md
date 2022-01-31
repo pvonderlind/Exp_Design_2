@@ -9,7 +9,7 @@ This report can be found under the following DOI:
 ## Installation instructions
 The bulk of the experiment is contained within edds-ws21_grp15.ipynb. Please consult
 requirements.txt for the necessary packages and versions to execute the notebook.
-To install jupyternotebook please consult https://jupyter.org/
+To install jupyter notebook please consult https://jupyter.org/
 
 An additional MATLAB file edds.m is provided. It requires the installation of
 MALSAR (we used version 1.1): http://jiayuzhou.github.io/MALSAR/
